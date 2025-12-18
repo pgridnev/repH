@@ -1,0 +1,6 @@
+* Образование: простая статистика
+var students = 25
+var added = 5
+var total = !(students added +)
+var grade_codes = << 65, 66, 67 >>
+var first_letter = !(65 chr())
