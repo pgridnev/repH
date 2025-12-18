@@ -1,0 +1,5 @@
+* Магазин: цены
+var price = 120
+var discount = 20
+var final = !(price discount -)
+var basket = << "bread", "milk", "tea" >>

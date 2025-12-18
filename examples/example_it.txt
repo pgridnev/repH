@@ -1,0 +1,5 @@
+* IT: настройки сервиса
+var port = 8080
+var host = "api"
+var nodes = << "node1", "node2", "node3" >>
+var nextport = !(port 1 +)
